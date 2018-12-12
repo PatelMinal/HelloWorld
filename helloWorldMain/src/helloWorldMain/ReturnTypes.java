@@ -11,7 +11,7 @@ public class ReturnTypes {
 	{
 		String myString = returnTypes();
 		
-		System.out.println(myString);
+		System.out.println(String1);
 	}
 }
 
