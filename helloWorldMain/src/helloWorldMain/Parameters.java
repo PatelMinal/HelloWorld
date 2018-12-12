@@ -2,8 +2,8 @@
 //PARAMETERS
 public class Parameters 
 {
-	public void name(String minalString)
+	public void name(String String1)
 	{
-		System.out.println(minalString);
+		System.out.println(String1);
 	}
 }
