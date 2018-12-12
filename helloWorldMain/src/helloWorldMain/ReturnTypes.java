@@ -9,7 +9,7 @@ public class ReturnTypes {
 	
 	public static void main(String args[])
 	{
-		String myString = returnTypes();
+		String String1 = returnTypes();
 		
 		System.out.println(String1);
 	}
